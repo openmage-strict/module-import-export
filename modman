@@ -1,0 +1,5 @@
+src/app/code/core/Mage/ImportExport/                                     app/code/core/Mage/ImportExport/
+src/app/design/adminhtml/default/default/layout/importexport.xml         app/design/adminhtml/default/default/layout/importexport.xml
+src/app/design/adminhtml/default/default/template/importexport/          app/design/adminhtml/default/default/template/importexport/
+src/app/etc/modules/Mage_ImportExport.xml                                app/etc/modules/Mage_ImportExport.xml
+src/app/locale/en_US/Mage_ImportExport.csv                               app/locale/en_US/Mage_ImportExport.csv
